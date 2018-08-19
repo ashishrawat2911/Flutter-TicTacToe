@@ -1,6 +1,6 @@
-# flutter_tic_tac_toe
+# Tic Tac Toe
 
-A Tic Tac Toe Application using Flutter
+A Tic Tac Toe Game Application using Flutter
 
 ## Getting Started
 
